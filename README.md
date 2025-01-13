@@ -51,7 +51,7 @@ This approach creates a smooth parallax-like effect where the scroll boxes chang
 
 https://github.com/user-attachments/assets/69b9c8c0-9215-4b0e-9392-2c0dffd403fa
 
-<h2>TIme Spent: 3.5 hours</h2>
+<p>TIme Spent: 3.5 hours</p>
 
 
 
