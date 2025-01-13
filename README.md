@@ -1,11 +1,13 @@
 <h1>Vrit Technology Task A</h1>
 <br>
 <h2>Setup Instruction</h2>
- 1. Clone the Repository
 
-Clone the repository to your local machine:
+1. Clone the Repository
+
+ Clone the repository to your local machine:
 
 ```git clone https://github.com/subin-shk/Vrit-Tech-Task-A.git```
+
 
 2. Open the cloned repository with live server or simply click index.html from file browser.
 
