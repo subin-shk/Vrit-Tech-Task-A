@@ -10,21 +10,26 @@ Clone the repository to your local machine:
 2. Open the cloned repository with live server or simply click index.html from file browser.
 
 <h2>Technology Used</h2>
+
 - HTML5
 - CSS
 - Javascript
 
 <h3>CSS</h3>
-- Rationale
+
+* Rationale:
+
   CSS was used to create a visually appealing scrollable layout using Flexbox for a series of .scroll-box elements within a .scroll-container. Each scroll box has a background color, rounded corners, and a subtle shadow effect, with a transition applied to scale and opacity for smooth visual effects when scrolling. The items inside each scroll box are styled with varying sizes and background colors, including circles and rectangles with rounded edges, to create a dynamic and engaging design. The layout ensures that the page is scrollable and responsive, with a background gradient that enhances the overall aesthetic.
 
 
 <h3>Vanilla Javascript</h3>
-- Rationale
+
+* Rationale:
+
 JavaScript code was used to add a scroll event listener to the window. As the user scrolls, it dynamically adjusts the scale and opacity of elements with the class .scroll-box based on their distance from the center of the viewport. Here's how it works:
 
 - Event Listener: It listens for the scroll event, triggering every time the user scrolls.
-Scroll Calculation: It calculates the current scroll position (scrollPosition) and the height of the viewport (windowHeight).
+- Scroll Calculation: It calculates the current scroll position (scrollPosition) and the height of the viewport (windowHeight).
 - Iterating over Scroll Boxes: It loops through all .scroll-box elements.
 boxOffset and boxHeight: These values give the position of the element relative to the top of the page and its height.
 - Distance from Center: It calculates the absolute distance of the box's center from the center of the viewport.
@@ -34,8 +39,10 @@ This approach creates a smooth parallax-like effect where the scroll boxes chang
 
 
 <h2>Known limitations</h2>
+
 - The component doesn't overlay over other components as shown in the task demo video.
 
 <h2>Future Improvements</h2>
+
 - Ensure smooth scrolling effect.
 - Ensure that the layout is optimized for various screen sizes and devices (i.e. Responsiveness).
