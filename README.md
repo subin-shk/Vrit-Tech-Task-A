@@ -46,3 +46,12 @@ This approach creates a smooth parallax-like effect where the scroll boxes chang
 
 - Ensure smooth scrolling effect.
 - Ensure that the layout is optimized for various screen sizes and devices (i.e. Responsiveness).
+
+<h2>Demo:</h2>
+
+https://github.com/user-attachments/assets/69b9c8c0-9215-4b0e-9392-2c0dffd403fa
+
+<h2>TIme Spent: 3.5 hours</h2>
+
+
+
